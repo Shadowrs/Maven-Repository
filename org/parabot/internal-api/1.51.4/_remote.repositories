@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Aug 01 14:26:10 BST 2018
+internal-api-1.51.4.pom>=
+internal-api-1.51.4-javadoc.jar>=
+internal-api-1.51.4.jar>=
+internal-api-1.51.4-sources.jar>=

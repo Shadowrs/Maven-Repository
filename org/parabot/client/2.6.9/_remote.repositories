@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Aug 01 14:26:19 BST 2018
+client-2.6.9.jar>=
+client-2.6.9-javadoc.jar>=
+client-2.6.9.pom>=
+client-2.6.9-sources.jar>=
